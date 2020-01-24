@@ -272,14 +272,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for AquaDrone_Main_PCB_V1\AquaDrone_Main_PCB_V1.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for AquaDrone_Main_PCB_V1\S6_Solenoid_Valve_Interlock.BOM
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for AquaDrone_Main_PCB_V1\S6_Solenoid_Valve_Interlock.CSV
-DItemRevisionGUID=
-
 [Parameter1]
 Name=Copyright
 Value=Copyright 2020
