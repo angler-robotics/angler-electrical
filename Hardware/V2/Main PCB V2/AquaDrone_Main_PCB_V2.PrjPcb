@@ -74,7 +74,7 @@ DocumentUniqueId=JFJCYWTQ
 
 [Document3]
 DocumentPath=Schematics\S1_Cover_Page.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -91,7 +91,7 @@ DocumentUniqueId=MYWQEANS
 
 [Document4]
 DocumentPath=Schematics\S2_Block_Diagram.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,7 +108,7 @@ DocumentUniqueId=JXFDEERI
 
 [Document5]
 DocumentPath=Schematics\S3_Connectors.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=DGROVBDW
 
 [Document7]
 DocumentPath=Schematics\S5_Communications.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -159,7 +159,7 @@ DocumentUniqueId=VPKMFYDC
 
 [Document8]
 DocumentPath=Schematics\S6_Solenoid_Valve_Interlock.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -173,6 +173,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RNSCFQDY
+
+[Document9]
+DocumentPath=PCB\AquaDrone_Main_PCB_V2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RJWKXQPR
 
 [Parameter1]
 Name=Copyright
