@@ -125,7 +125,7 @@ DocumentUniqueId=YGVKKAVH
 
 [Document6]
 DocumentPath=Schematics\S4_Power_Supply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=DGROVBDW
 
 [Document7]
 DocumentPath=Schematics\S5_Communications.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -190,6 +190,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJWKXQPR
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AquaDrone_Main_PCB_V2\Design Rule Check - AquaDrone_Main_PCB_V2.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Copyright
